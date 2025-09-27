@@ -1,4 +1,4 @@
-# Web Development Project 6 - Movie Analytics Dashboard
+#  Movie Analytics Dashboard
 
 Submitted by: **Your Name Here**
 
